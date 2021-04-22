@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lipeilin375
+- 👀 I’m interested in eating
+- 🌱 I’m currently learning C++
+- 📫 E-mail me: jinjieup@outlook.com
