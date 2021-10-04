@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lipeilin375
-- 👀 I’m interested in eating
-- 🌱 I’m currently learning C++
-- 📫 E-mail me: jinjieup@outlook.com
+- 👀 I’m interested in eating delicious food, if you have some suggestion for me, you can (e-mail me now!)[mailto:lipeilin@jinjieup.onmicrosoft.com]
+- 🌱 I’m currently learning Software Language & Web & H5 & Go
+- 📫 E-mail me: lipeilin@jinjieup.onmicrosoft.com
