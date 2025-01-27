@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about web development and creating 
 
 ## 📈 GitHub Stats
 
-![lipeilin375's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipeilin375&show_icons=true&theme=radical)
+![lipeilin375's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipeilin375&show_icons=true&theme=radical) ![lipeilin375's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lipeilin375&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐍 Contribution Snake
 
